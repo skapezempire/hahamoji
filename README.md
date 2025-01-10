@@ -1,5 +1,5 @@
 # hahamoji
-Freee emoji's 
+Freee male emoji and sticker packs
 Free  emoji/sticker. the files contain png files and Adobe illustrator files so you can edit them, generate your version/combinations.![vampire](https://user-images.githubusercontent.com/18077781/155839231-bb040245-39d9-450b-b773-7d52b9d15d39.png)
 ![watchout](https://user-images.githubusercontent.com/18077781/155839232-97c430d6-12f6-4e7f-82b3-8e58440e15e8.png)
 ![widemouth](https://user-images.githubusercontent.com/18077781/155839234-9cecf14a-0f09-4104-9aff-19ca118f16bd.png)
